@@ -1,4 +1,4 @@
-package olg.reims.core.ioc;
+package olg.reims.core.support;
 
 /**
  * 2021/6/10
