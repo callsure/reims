@@ -6,11 +6,7 @@ package olg.reims.core.support;
  */
 public interface BeanDefinition {
 
-    String getBeanClassName();
+    String[] getBeanName();
 
-    void setBeanClassName(String beanClassName);
-
-    void setDependsOn(String... dependsOn);
-
-    String[] getDependsOn();
+    void injection(IocMaking making);
 }

@@ -39,5 +39,11 @@
             <artifactId>reims-asm</artifactId>
             <version>1.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-core</artifactId>
+            <version>5.5.2</version>
+        </dependency>
     </dependencies>
 </project>
